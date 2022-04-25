@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 62996,
+    "articles": [
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Jon Fingas",
+            "title": "Biden administration cracks down on 3D-printed 'ghost guns'",
+            "description": "The Biden administration is taking new measures that would limit the spread of 3D-printed guns. The Justice Department has issued a final rule with multiple measures restricting the sale and distribution of \"ghost guns,\" including a requirement for federally …",
+            "url": "https://www.engadget.com/biden-3d-printed-ghost-guns-rule-200806385.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-04/282c9f50-b9cd-11ec-bfff-f630fe436958",
+            "publishedAt": "2022-04-11T20:08:06Z",
+            "content": "The Biden administration is taking new measures that would limit the spread of 3D-printed guns. The Justice Department has issued a final rule with multiple measures restricting the sale and distribu… [+1840 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Kris Holt",
+            "title": "State Department’s new bureau makes cybersecurity a part of foreign policy",
+            "description": "The Department of State has cut the ribbon on the Bureau of Cyberspace and Digital Policy (CDP), which is now in operation. The move makes cybersecurity a more formal area of focus for US foreign policy following a swathe of attacks linked to Russia and China…",
+            "url": "https://www.engadget.com/state-department-bureau-of-cyberspace-and-digital-policy-201748901.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-01/f2d956a0-722c-11ec-8bd0-e04af38696ec",
+            "publishedAt": "2022-04-04T20:17:48Z",
+            "content": "The Department of State has cut the ribbon on the Bureau of Cyberspace and Digital Policy (CDP), which is now in operation. The move makes cybersecurity a more formal area of focus for US foreign pol… [+1767 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Mariella Moon",
+            "title": "The FBI silently removed Russian malware to thwart global cyberattacks",
+            "description": "Attorney General Merrick B. Garland has revealed that the United States secretly removed malware from computer networks around the world over the past few weeks to pre-empt Russian cyberattacks. As The New York Times reports, Garland's announcement comes shor…",
+            "url": "https://www.engadget.com/fbi-removed-russian-malware-thwart-russia-cyberattacks-105553756.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-04/5dc180b0-b5c5-11ec-9f9f-eb003b8045dc",
+            "publishedAt": "2022-04-07T10:55:53Z",
+            "content": "Attorney General Merrick B. Garland has revealed that the United States secretly removed malware from computer networks around the world over the past few weeks to pre-empt Russian cyberattacks. As T… [+2413 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Andrew Tarantola",
+            "title": "Transportation Secretary Buttigeig lays out his department's electrified vision at SXSW 2022",
+            "description": "Despite the pandemic shuttering offices and upending commutes across the nation for more than two years, America’s roads and bridges remain critical to its economic and social well being, acting as a circulatory system for goods and people. But like the ticke…",
+            "url": "https://www.engadget.com/transportation-secretary-buttigeig-lays-out-his-departments-electrified-vision-at-sxsw-2022-134517849.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-03/40c2bb30-aae1-11ec-b3dc-b61aeec7da0c",
+            "publishedAt": "2022-03-24T13:45:17Z",
+            "content": "Despite the pandemic shuttering offices and upending commutes across the nation for more than two years, Americas roads and bridges remain critical to its economic and social well being, acting as a … [+5062 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Steven Levy",
+            "title": "Joe Biden, and the Country, Could Really Use a CTO",
+            "description": "Plus: Obama’s head techy, the world’s social media addiction, and Russia’s unwelcomed escalation.",
+            "url": "https://www.wired.com/story/plaintext-joe-biden-cto/",
+            "urlToImage": "https://media.wired.com/photos/6261f0af276124cdae29a208/191:100/w_1280,c_limit/Joe-Biden-CTO-Business-1239469788.jpg",
+            "publishedAt": "2022-04-22T13:00:00Z",
+            "content": "Hi, everyone. CNN+ has gone to the graveyard. I got a head start writing the postmortemwhen it first launched. Now well never see them embrace TikTok.\r\nOne of the US governments best innovations so f… [+2724 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Chris Stokel-Walker",
+            "title": "This Is How the Global Energy Crisis Ends",
+            "description": "With future price rises baked in and some countries on the verge of rationing gas, things are going to get a whole lot worse before they get any better.",
+            "url": "https://www.wired.com/story/global-energy-crisis-price-rise-solution/",
+            "urlToImage": "https://media.wired.com/photos/624b8082af46a0b9488f6346/191:100/w_1280,c_limit/Energy-Crisis-Rising-Gas-Prices-UK-Business-1239649788.jpg",
+            "publishedAt": "2022-04-05T11:00:00Z",
+            "content": "In the US, filling up your car has become 46 percent more expensive in the last yearthough those outside the country can only dream of paying $4.25 for a gallon of gas. In the UK, the average price a… [+5133 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Andrew Couts",
+            "title": "Hunt for Lapsus$ Hackers Leads to a British Teen",
+            "description": "Plus: New details emerge about Russian hacks and hackers as the US warns of potential new attacks.",
+            "url": "https://www.wired.com/story/russian-hackers-lapsus-north-korea/",
+            "urlToImage": "https://media.wired.com/photos/623e53db429706abf8d5be52/191:100/w_1280,c_limit/security-325.jpg",
+            "publishedAt": "2022-03-26T13:00:00Z",
+            "content": "There are quiet weeks in the security world, and then there are weeks like this one. \r\nMonday kicked off with the Lapsus$ extortion ganga cybercriminal group so bizarre and with such high-profile tar… [+5731 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Caitlin Harrington",
+            "title": "A TikTok Army Is Coming for Union Busters",
+            "description": "Online activists Gen-Z for Change targeted Starbucks and Kroger for anti-union firings. Now they plan to take aim at Amazon.",
+            "url": "https://www.wired.com/story/tiktok-army-union-busters-amazon/",
+            "urlToImage": "https://media.wired.com/photos/625f47f1536da34b19a67a6e/191:100/w_1280,c_limit/Gen-Z-Tik-Tok-Coming-For-Union-Busters-Business-593305326.jpg",
+            "publishedAt": "2022-04-20T11:00:00Z",
+            "content": "Elise Joshi was scrolling through Twitters standard rage-bait late one night in February when she saw a Tweet that galled her enough to take action. Starbucks, the supposedly progressive coffee chain… [+3110 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Stewart A. Baker, Paul Rosenzweig",
+            "title": "The Ghost of the Soviet Union Still Haunts the Internet",
+            "description": "The empire collapsed 30 years ago, but its .su domain lives on—and is now attracting people who oppose an independent Ukraine.",
+            "url": "https://www.wired.com/story/soviet-union-domain-ukraine/",
+            "urlToImage": "https://media.wired.com/photos/623e34479298b92bd539312d/191:100/w_1280,c_limit/The-Ghost-of-the-Soviet-Union-Still-Haunts-the-Internet.jpg",
+            "publishedAt": "2022-03-28T13:00:00Z",
+            "content": "Vladimir Putins invasion of Ukraine has inspired a global response. Musicians are protesting with music, artists with art, pastry chefs with pastry, and bicyclists by cycling. This raises the questio… [+3922 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Lily Hay Newman",
+            "title": "TSA’s Terrorist Watch List Comes for Amtrak Passengers",
+            "description": "Plus: Microsoft seizes Russian GRU domains, Cash App’s data breach, and Obama’s disinfo admission.",
+            "url": "https://www.wired.com/story/tsa-amtrak-cash-app-breach-microsoft-gru-obama-disinformation/",
+            "urlToImage": "https://media.wired.com/photos/6250b609c82cb96e10cc0692/191:100/w_1280,c_limit/Amtrak-TSA-Security-Roundup-Security-1190440972.jpg",
+            "publishedAt": "2022-04-09T13:00:00Z",
+            "content": "As Russia's war continues in Ukraine, the Biden White House has been scrambling to use every tool at its disposal in countering, or ideally preempting, Kremlin-backed cyberattacks. But as the physica… [+4590 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Justine Calma",
+            "title": "The Biden administration gives a green light to a fuel that could be even dirtier than regular gas",
+            "description": "To lower prices at the pump, the Biden administration plans to allow the year-round use of a controversial gasoline blend that’s usually banned in the summertime.",
+            "url": "https://www.theverge.com/2022/4/12/23021146/biden-administration-ethanol-e15-gas-prices",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/mOGnorBpIxIXIKkAcAAI8Df5VCI=/0x443:6192x3685/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23383391/1388975071.jpg",
+            "publishedAt": "2022-04-12T09:00:00Z",
+            "content": "The EPA plans to issue an emergency waiver for E15\r\nA gas pump is seen situated while pumping gas at a Shell gas station on April 01, 2022 in Houston, Texas. \r\nPhoto by Brandon Bell/Getty Images\r\nIn … [+2715 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Loren Grush",
+            "title": "NASA would get $26 billion in new budget request",
+            "description": "President Joe Biden released his administration’s budget request for 2023, which proposes giving $26 billion to NASA, as well as $7.5 billion for the agency’s Artemis program — an initiative to send humans back to the Moon.",
+            "url": "https://www.theverge.com/2022/3/28/22999641/nasa-budget-biden-request-artemis-lunar-lander",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/GD_jWIBXmpfZjBbeyr0D_0Tnwr0=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23326746/lgrush_220317_5079_0015.jpg",
+            "publishedAt": "2022-03-28T15:18:06Z",
+            "content": "Money for Artemis, space stations, and more\r\nPhoto by Loren Grush / The Verge\r\nPresident Joe Biden is requesting a whopping $26 billion for NASA for 2023, roughly $2 billion more than the space agenc… [+4555 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Nicole Wetsman",
+            "title": "Judge says masks can’t be required on planes and trains",
+            "description": "A federal judge ruled that the CDC did not have the authority to issue a mask mandate for planes and public transportation. COVID-19 cases are going up in the US.",
+            "url": "https://www.theverge.com/2022/4/18/23030626/mask-mandate-transportation-unlawful-judge",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/i0ltTzBGHvowkg8Vy1E4vXN_ZXM=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19981040/acastro_200512_1777_faceMask_0001.0.jpg",
+            "publishedAt": "2022-04-18T18:08:48Z",
+            "content": "A Florida federal judge said the mask mandate was unlawful\r\nIllustration by Alex Castro / The Verge\r\nA federal judge said Monday that the Biden administration could not require masks be worn on airpl… [+1144 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew J. Hawkins",
+            "title": "US unveils stricter tailpipe emissions standards for new vehicles",
+            "description": "Transportation Secretary Pete Buttigieg announced stricter fuel economy standards that will require the average US vehicle to achieve 49 miles per gallon by 2026.",
+            "url": "https://www.theverge.com/2022/4/1/23006139/us-new-tailpipe-emissions-standards-fuel-economy-cafe-mpg-buttigieg",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/oIL_4L4hOKbC0ASFPi4QDaHD4V0=/0x215:3000x1786/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23360106/94117991.jpg",
+            "publishedAt": "2022-04-01T14:38:44Z",
+            "content": "Photo by Joe Raedle/Getty Images\r\n\n \n\n US Transportation Secretary Pete Buttigieg unveiled stricter fuel economy standards today that he said would save Americans money at the pump, as well as help r… [+4245 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Adi Robertson",
+            "title": "A new bill would launch a large-scale test of digital dollars",
+            "description": "US Congressional Rep. Stephen Lynch (D-MA) proposed a bill called the ECASH Act that would direct the Department of the Treasury to launch an “e-cash” digital currency system.",
+            "url": "https://www.theverge.com/2022/3/28/22999894/ecash-act-digital-currency-us-congress-bill",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/0CuQLMaj7S0zulwT5fnt5ltxLhQ=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/11503853/mdoying_180419_1777_0454_2.jpg",
+            "publishedAt": "2022-03-28T21:57:55Z",
+            "content": "Graphics by Michele Doying / The Verge\r\n\n \n\n 2A US lawmaker has proposed a large-scale trial of government-backed digital cash. The Electronic Currency and Secure Hardware (ECASH) Act, introduced by … [+3755 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew J. Hawkins",
+            "title": "USPS is doubling its initial order of electric mail delivery trucks",
+            "description": "The United States Postal Service said it would increase its initial order of electric delivery trucks from 5,000 to 10,019. The agency have been criticized for not ordering more EVs.",
+            "url": "https://www.theverge.com/2022/3/24/22994483/usps-electric-truck-increase-order-oshkosh",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/1lbGnzadukB37YgJx0dMissxm18=/271x5:3048x1459/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23342181/1238414438.jpg",
+            "publishedAt": "2022-03-24T15:26:31Z",
+            "content": "The agency now says it will order 10,019 EVs as part of its first acquisition \r\nPhoto by Michael Bocchieri/Getty Images\r\nThe United States Postal Service announced its initial order of 50,000 next-ge… [+2887 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Kim Lyons",
+            "title": "US labor board moves to block Amazon’s favorite anti-union tactic",
+            "description": "Employees are often required to attend so-called captive audience meetings, where the employer delivers anti-union rhetoric. The NLRB general counsel wants the board to affirm that such meetings are voluntary.",
+            "url": "https://www.theverge.com/2022/4/7/23014893/nlrb-counsel-captive-audience-meetings-union-labor-amazon",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/8dK1SzZHDdCAz0pAf63SkW4BDjI=/0x933:5221x3667/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23374089/1239799842.jpg",
+            "publishedAt": "2022-04-07T16:58:15Z",
+            "content": "Companies like Amazon often hold mandatory meetings to deliver anti-union messaging\r\nCompanies like Amazon often use mandatory meetings to persuade workers against unionizing.\r\nPhoto by Yana Paskova … [+3123 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew J. Hawkins",
+            "title": "VW’s Electrify America unveils new ‘human-centered’ EV charging stations",
+            "description": "Electrify America, VW’s EV charging subsidiary, says it will build new lounge-style EV charging stations in California and New York.",
+            "url": "https://www.theverge.com/2022/3/24/22994302/vw-volkswagen-electrify-america-ev-charging-station-design-ca-ny",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/V7ljkPV7q20gYTU7fSDQF11Dlsw=/0x38:1920x1043/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23341896/Electrify_America___The_Future_of_EV_Charging_Stations.jpg",
+            "publishedAt": "2022-03-24T14:00:00Z",
+            "content": "Gas station meets Sky Club Lounge \r\nElectrify America\r\nElectrify America, the electric vehicle charging company thats a subsidiary of Volkswagen, announced plans to install new human-centered chargin… [+4269 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Passant Rabie",
+            "title": "Biden Finally Cracks Down on Untraceable 'Ghost Guns'",
+            "description": "In an effort to reduce gun violence, President Joe Biden banned the manufacturing of unserialized, untraceable gun kits that are bought without the need for a background check and later assembled at home.Read more...",
+            "url": "https://gizmodo.com/biden-finally-cracks-down-on-untraceable-ghost-guns-1848779173",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/6f23972fb825fa76a7275c49c1aedda0.jpg",
+            "publishedAt": "2022-04-11T21:40:00Z",
+            "content": "In an effort to reduce gun violence, President Joe Biden banned the manufacturing of unserialized, untraceable gun kits that are bought without the need for a background check and later assembled at … [+3444 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Lauren Leffer",
+            "title": "New Biden Order to Find Old Trees Falls Short of Protecting Them",
+            "description": "In reversal of standard procedure, the federal government will now have to figure out how not to miss the trees for the forest.Read more...",
+            "url": "https://gizmodo.com/new-biden-order-to-find-old-trees-falls-short-of-protec-1848830959",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/d48d3d9be9848a4785960aa6da2c92a5.jpg",
+            "publishedAt": "2022-04-22T20:13:00Z",
+            "content": "In reversal of standard procedure, the federal government will now have to figure out how not to miss the trees for the forest.\r\nOn Friday, as part of an apparent Earth Day push, President Biden sign… [+4438 chars]"
+        }
+    ]
+}

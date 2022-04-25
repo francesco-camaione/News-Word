@@ -1,0 +1,113 @@
+@use "/src/assets/scss/variables";
+
+.dark--main {
+    .header {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .header p {
+        color: variables.$white-color;
+    }
+    
+    .title1 {
+        color: variables.$white-color;
+        margin-bottom: 10px;
+    }
+    
+    .dark--articles {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+    
+    }
+    
+    .form {
+        margin-bottom: 40px;
+        margin-top: 10px;
+    }
+    
+    .form input {
+        background-color: transparent;
+        border: 1px solid variables.$white-color;
+        height: 28px;
+        width: 254px;
+        color: variables.$white-color;
+    }
+    
+    .form input:focus {
+        border: 1px solid variables.$white-color;
+        outline: 0px;
+    
+    }
+    
+    .form button {
+        background-color: transparent;
+        color: variables.$white-color;
+        border: 1px solid variables.$coral-color;
+        height: 32px;
+        width: 60px;
+        cursor: pointer;
+        margin-left: 10px;
+    }
+    .form button p {
+        margin: 0;
+        letter-spacing: 1px;
+    }
+}
+
+.light--main {
+    .header {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .title1 {
+        color: variables.$black-color;
+        margin-bottom: 10px;
+    }
+    
+    .light--articles {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+    
+    }
+    
+    .form {
+        margin-bottom: 40px;
+        margin-top: 10px;
+    }
+    
+    .form input {
+        background-color: transparent;
+        border: 1px solid variables.$grey-color;
+        height: 28px;
+        width: 254px;
+    }
+    
+    .form input:focus {
+        border: 1px solid variables.$black-color;
+        outline: 0px;
+    
+    }
+    
+    .form button {
+        background-color: transparent;
+        border: 1px solid variables.$coral-color;
+        height: 32px;
+        width: 60px;
+        cursor: pointer;
+        margin-left: 10px;
+    }
+    .form button p {
+        margin: 0;
+        letter-spacing: 1px;
+    }
+}

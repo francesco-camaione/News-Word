@@ -1,0 +1,14 @@
+@use "/src/assets/scss/variables";
+
+.footer {
+    background-color: variables.$black-color;
+    color: white;
+    text-align: center;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    padding: 10px;
+}
+
+.footer p {
+    margin-bottom: 0;
+}

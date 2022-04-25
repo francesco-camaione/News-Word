@@ -1,0 +1,72 @@
+@use "/src/assets/scss/variables";
+
+.light--navbar {
+
+    ul {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        list-style: none;
+        margin-top: 0px;
+        padding: 0;
+        align-items: center;
+        padding-top: 10px;
+    }
+
+    ul span {
+        font-size: 30px;
+        cursor: pointer
+    }
+    
+    ul a {
+        text-decoration: none;
+    }
+
+    ul li {
+        background-color: variables.$black-color;
+        padding: 10px;
+        border-radius: 8px;
+        cursor: pointer;
+        color: white;
+    }
+
+    hr {
+        border: 1px solid variables.$grey-color;
+    }
+}
+
+.dark--navbar {
+
+    ul {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        list-style: none;
+        margin-top: 0px;
+        padding: 0;
+        align-items: center;
+        padding-top: 10px;
+    }
+
+    ul span {
+        font-size: 30px;
+        color: variables.$white-color;
+        cursor: pointer
+    }
+    
+    ul a {
+        text-decoration: none;
+    }
+
+    ul li {
+        background-color: variables.$light-background-color;
+        padding: 10px;
+        border-radius: 8px;
+        cursor: pointer;
+        color: variables.$black-color;
+    }
+
+    hr {
+        border: 1px solid variables.$grey-color;
+    }
+}
