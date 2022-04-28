@@ -1,4 +1,3 @@
-
 export function fetchArticles() {
   // simulating an api call
   return new Promise((resolve, reject) => {

@@ -6,18 +6,18 @@ import "./Sidenav.scss"
 
 
 export function Sidenav() {
-    const favArticles: ArticleModel[] = useSelector((state: any) => JSON.parse( state.userArticles.value ).articles)
+    const favArticles: ArticleModel[] = useSelector((state: any) => JSON.parse(state.userArticles.value).articles)
     const theme = useSelector((state: any) => state.theme.value)
 
 
     const favArticlesElement = favArticles.map((article: ArticleModel) => {
-        return article.userFav &&  
-        <FavArticle
-            key={nanoid()}
-            title={article.title}
-            url={article.url}
-            userFav={article.userFav}
-        />
+        return article.userFav &&
+            <FavArticle
+                key={nanoid()}
+                title={article.title}
+                url={article.url}
+                userFav={article.userFav}
+            />
     })
 
     return (

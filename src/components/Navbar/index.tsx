@@ -8,7 +8,7 @@ import { useSelector } from "react-redux";
 export function Navbar() {
     const [nav_visibility, setNavVisibility] = useState(false)
     const theme = useSelector((state: any) => state.theme.value.theme)
-    
+
     return (
         <nav className={theme + "--navbar"}>
             {nav_visibility && <Sidenav />}

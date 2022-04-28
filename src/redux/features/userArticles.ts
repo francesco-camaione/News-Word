@@ -1,22 +1,27 @@
 import { ArticleModel } from './../../models/article';
-import { createSlice, PayloadAction } from "@reduxjs/toolkit";
-import { getArticles } from '../../services/getArticles';
+import { createSlice } from "@reduxjs/toolkit";
+import articles_data from "../../data/articles.json"
 
-// create a logic to add to state the user favourite articles
-const initialState = localStorage.getItem("articles") !== undefined ? localStorage.getItem("articles") : getArticles()
+function getData() {
+    // getArticles
+    const response = JSON.stringify(articles_data)
+    localStorage.setItem("articles", response)
+    return response
+}
+
+const initialState = localStorage.getItem("articles") === null ? getData() : localStorage.getItem("articles")
 
 export const userArticles = createSlice({
     name: "articles",
     initialState: { value: initialState },
     reducers: {
-        // payload would act as keyword for the new search-articles and passed to the getArticles()
-        searchArticles: (state, _payload: PayloadAction) => {
-            state.value = getArticles()
+        searchArticles: (state) => {
+            // logic to get data from api
+            state.value = getData()
         },
-
         setFavourite: (state, action) => {
-            const articles: any = localStorage.getItem("articles")
-            const json_articles = JSON.parse(articles).articles
+            const articles: string | null = localStorage.getItem("articles")
+            const json_articles = articles !== null && JSON.parse(articles).articles 
             const article_list = json_articles.map((article: ArticleModel) => {
                 if (action.payload.title === article.title) {
                     article.userFav ? article.userFav = false : article.userFav = true

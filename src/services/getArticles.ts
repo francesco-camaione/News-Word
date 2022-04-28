@@ -3,11 +3,11 @@ import { ArticleModel } from './../models/article';
 import { fetchArticles } from "../api/articles";
 import articles from "../data/articles.json"
 
-export function getArticles() {
-    fetchArticles()
+export async function getArticles() {
+    const response = await fetchArticles()
         .then(() => {
-            const storage: any = localStorage.getItem("articles")
-            const data = storage.length > 1 ? JSON.parse(storage) : articles
+            const storage = localStorage.getItem("articles")
+            const data = storage === null ? articles : JSON.parse(storage)
             const article_list: ArticleModel[] = data.articles.map((article: ArticleModel) => {
                 return {
                     id: nanoid(),
@@ -23,7 +23,8 @@ export function getArticles() {
                 }
             })
             localStorage.setItem("articles", JSON.stringify({ articles: article_list }))
+
         })
         .catch((error) => alert(error))
-    return localStorage.getItem("articles")
+    return await response
 }
