@@ -20,7 +20,7 @@ export function Article(props: Props) {
 
     return (
         <article className="article--container">
-            <img src={props.urlToImage} className="image" alt="" loading="lazy"/>
+            <img src={props.urlToImage} className="image" alt="" loading="lazy" />
             <h2 className="title">{props.title}</h2>
             <h4 className="source">{props.source_name}</h4>
             <p className="description">{props.description}</p>

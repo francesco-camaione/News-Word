@@ -3,7 +3,7 @@ import { createSlice } from "@reduxjs/toolkit";
 import articles_data from "../../data/articles.json"
 
 function getData() {
-    // getArticles
+    // getArticles, then
     const response = JSON.stringify(articles_data)
     localStorage.setItem("articles", response)
     return response
@@ -21,7 +21,7 @@ export const userArticles = createSlice({
         },
         setFavourite: (state, action) => {
             const articles: string | null = localStorage.getItem("articles")
-            const json_articles = articles !== null && JSON.parse(articles).articles 
+            const json_articles = articles !== null && JSON.parse(articles).articles
             const article_list = json_articles.map((article: ArticleModel) => {
                 if (action.payload.title === article.title) {
                     article.userFav ? article.userFav = false : article.userFav = true

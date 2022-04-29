@@ -26,5 +26,5 @@ export async function getArticles() {
 
         })
         .catch((error) => alert(error))
-    return await response
+    return response
 }

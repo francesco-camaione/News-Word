@@ -1,5 +1,5 @@
-# Getting Started
-A simple app made using: React, Typescript, Redux, and Scss. It fakes an API get call to display stored articles information including the save to favorite option which adds the articles in the navbar. Data get stored in the localStorage avoiding that favorite articles get lost. The app includes dark theme mode.
+# News-Word
+A simple app made using: React, Redux, Typescript, and Scss. It fakes an API get call to display stored articles information including the save to favorite option which adds the articles in the navbar. Data get stored in the localStorage avoiding that favorite articles get lost. The app includes dark theme mode.
 
 ## In the project directory, you can run:
 

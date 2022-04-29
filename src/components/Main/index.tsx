@@ -12,7 +12,7 @@ export function Main() {
     const theme = useSelector((state: any) => state.theme.value)
     const keywords = useRef<HTMLInputElement>(null)
     const dispatch = useDispatch()
-    // get data if keywords.length > 1 and store them in loadArticles state
+    // get data if keywords.length > 1 and store them in userArticles 
     function getData(keywords: any) {
         keywords.length > 2 && dispatch(searchArticles())
     }

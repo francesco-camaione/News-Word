@@ -1,6 +1,6 @@
 import { createSlice } from "@reduxjs/toolkit";
 
-const initialState: any = localStorage.getItem("theme") !== null ? localStorage.getItem("theme") : JSON.stringify({ theme : "dark" })
+const initialState: any = localStorage.getItem("theme") !== null ? localStorage.getItem("theme") : JSON.stringify({ theme: "dark" })
 
 export const theme = createSlice({
     name: "theme",
