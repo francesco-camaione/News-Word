@@ -1,6 +1,9 @@
 import { createSlice } from "@reduxjs/toolkit";
 
-const initialState: any = localStorage.getItem("theme") !== null ? localStorage.getItem("theme") : JSON.stringify({ theme: "dark" })
+// check user browser-theme and load website with that theme 
+const browser_theme: boolean = window.matchMedia("(prefers-color-scheme: dark)").matches
+const initialState: any = localStorage.getItem("theme") !== null ? localStorage.getItem("theme") : JSON.stringify({ theme: browser_theme ? "dark" : "light" })
+console.log(initialState)
 
 export const theme = createSlice({
     name: "theme",
